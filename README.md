@@ -1,6 +1,6 @@
 # 《编写高质量代码——改善Python程序的91个建议》
 
-[幕布读书笔记](https://share.mubu.com/doc/3XgcyfK0sf)
+[**幕布读书笔记**](https://share.mubu.com/doc/3XgcyfK0sf)
 
 ## 基本原则
 
